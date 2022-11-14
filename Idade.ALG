@@ -1,11 +1,11 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Cleberson Machado
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Cleberson Marcelo
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 08/11/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 anoNasc:inteiro
 anoAtual:inteiro
 nomePessoa:caracter
@@ -13,13 +13,13 @@ idade:inteiro
 covid:logico
 
 Inicio
-// Atribuição de valores às variáveis (usa o símbolo de <-)
-//Todas as variáveis de caracter ficam entre "aspas"
+// AtribuiÃ§Ã£o de valores Ã s variÃ¡veis (usa o sÃ­mbolo de <-)
+//Todas as variÃ¡veis de caracter ficam entre "aspas"
 anoNasc <- 1995
 anoAtual <- 2022
 nomePessoa <- "Bruno"
 idade <- anoAtual-anoNasc
-escreva(nomePessoa, ", sua idade é")
+escreva(nomePessoa, ", sua idade Ã©")
 escreva(idade)
 
 Fimalgoritmo
